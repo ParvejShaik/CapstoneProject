@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NAbQBc2s+SgGc/cieBSQ8KcNpnruydptDarj4j+Q66c=",
+  "Source": "AgentMicroService",
+  "BasePath": "_content/AgentMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

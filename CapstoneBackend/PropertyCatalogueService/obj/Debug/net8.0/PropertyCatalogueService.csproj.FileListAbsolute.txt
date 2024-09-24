@@ -1,0 +1,167 @@
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.csproj.AssemblyReference.cache
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.AssemblyInfoInputs.cache
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.AssemblyInfo.cs
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.csproj.CoreCompileInputs.cache
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\appsettings.Development.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\appsettings.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.exe
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.deps.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.runtimeconfig.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.pdb
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\DnsClient.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\SharpCompress.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Snappier.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.PropertyCatalogueService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyCatalogueService.props
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyCatalogueService.props
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyCatalogueService.props
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\scopedcss\bundle\PropertyCatalogueService.styles.css
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\Property.255455C6.Up2Date
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\refint\PropertyCatalogueService.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.pdb
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.genruntimeconfig.cache
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\ref\PropertyCatalogueService.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.staticwebassets.runtime.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\appsettings.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.staticwebassets.runtime.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.exe
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.deps.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.runtimeconfig.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.pdb
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Snappier.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.csproj.AssemblyReference.cache
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.AssemblyInfoInputs.cache
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.AssemblyInfo.cs
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.csproj.CoreCompileInputs.cache
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.PropertyCatalogueService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyCatalogueService.props
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyCatalogueService.props
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyCatalogueService.props
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\scopedcss\bundle\PropertyCatalogueService.styles.css
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\Property.255455C6.Up2Date
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\refint\PropertyCatalogueService.dll
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.pdb
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.genruntimeconfig.cache
+C:\Users\FIROJ\Downloads\Real_Estate_Application_Project\Real_Estate_Application_Project\Backend\RealEstateApplication\PropertyCatalogueService\obj\Debug\net8.0\ref\PropertyCatalogueService.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\appsettings.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.staticwebassets.runtime.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.exe
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.deps.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.runtimeconfig.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\PropertyCatalogueService.pdb
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Moq.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Snappier.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.csproj.AssemblyReference.cache
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.AssemblyInfoInputs.cache
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.AssemblyInfo.cs
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.csproj.CoreCompileInputs.cache
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.PropertyCatalogueService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyCatalogueService.props
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyCatalogueService.props
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyCatalogueService.props
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\scopedcss\bundle\PropertyCatalogueService.styles.css
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\Property.255455C6.Up2Date
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\refint\PropertyCatalogueService.dll
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.pdb
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\PropertyCatalogueService.genruntimeconfig.cache
+C:\Users\FIROJ\source\repos\CAPSTONE PROJECT\CapstoneBackend\PropertyCatalogueService\obj\Debug\net8.0\ref\PropertyCatalogueService.dll

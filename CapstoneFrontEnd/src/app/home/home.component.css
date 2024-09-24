@@ -1,0 +1,6 @@
+#carouselExampleIndicators img {
+    height: 400px; /* adjust height */
+    object-fit: cover; /* maintain aspect ratio */
+    width: 100%; /* full width */
+  }
+  

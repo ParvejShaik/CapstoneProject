@@ -1,0 +1,104 @@
+<div class="container mt-4 custom-container" style="max-width: 1200px;">
+  <h2 class="text-center mb-4">Welcome</h2>
+  
+  <div class="d-flex justify-content-between mb-3">
+    <div class="text-center mb-3">
+      <input type="text" 
+             [(ngModel)]="propertyLocationFilter" 
+             (input)="filterProperties()" 
+             placeholder="Filter by Location" 
+             class="form-control d-inline-block filter-input" 
+             style="width: 300px;">
+    </div>
+    <button (click)="logout()" class="btn btn-danger">Logout</button>
+  </div>
+
+  <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+  
+  <div class="row">
+    <div *ngFor="let property of properties" class="col-md-4 mb-4">
+      <div class="card h-100">
+        <div class="image-container">
+          <img [src]="property.image" class="card-img-top" alt="Property Image" *ngIf="property.image">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">{{ property.title }}</h5>
+          <p class="card-text mb-1">Price: {{ property.price | currency }}</p>
+          <p class="card-text mb-1">Location: {{ property.location }}</p>
+          <p class="card-text mb-1">Size: {{ property.size }} sqft</p>
+          <p class="card-text mb-1">No. of Bedrooms: {{ property.numberOfBedrooms }}</p>
+          <p class="card-text mb-1">Description: {{ property.description }}</p>
+
+          <h6>Agent Details:</h6>
+          <p class="card-text mb-1">Name: {{ property.agent.name }}</p>
+          <p class="card-text mb-1">Contact: {{ property.agent.contact }}</p>
+          <p class="card-text mb-1">Email: {{ property.agent.email }}</p>
+
+          <button class="btn btn-primary" (click)="buyProperty(property)">Buy</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Contact Form -->
+  <div class="modal fade" id="buyModal" tabindex="-1" role="dialog" aria-labelledby="buyModalLabel" [ngClass]="{'show': isModalOpen}" *ngIf="isModalOpen" style="display: block;">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="buyModalLabel">Fill Your Details</h5>
+          <button type="button" class="close" (click)="closeModal()" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form (ngSubmit)="submitContactForm()">
+            <div class="form-group">
+              <label for="fullName">Full Name</label>
+              <input type="text" class="form-control" id="fullName" [(ngModel)]="contactData.fullName" name="fullName" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" class="form-control" id="email" [(ngModel)]="contactData.email" name="email" required>
+            </div>
+            <div class="form-group">
+              <label for="phoneNumber">Phone Number</label>
+              <input type="tel" class="form-control" id="phoneNumber" [(ngModel)]="contactData.phoneNumber" name="phoneNumber" required>
+            </div>
+            <input type="hidden" [(ngModel)]="contactData.propertyName" name="propertyName">
+            <input type="hidden" [(ngModel)]="contactData.locality" name="locality">
+            <input type="hidden" [(ngModel)]="contactData.agent.name" name="agentName">
+            <input type="hidden" [(ngModel)]="contactData.agent.email" name="agentEmail">
+            <input type="hidden" [(ngModel)]="contactData.agent.contact" name="agentContact">
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.image-container {
+    height: 300px; /* Set image container height */
+    overflow: hidden; /* Hide overflow */
+}
+.card-img-top {
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    object-fit: cover; /* Maintain aspect ratio */
+}
+.card-body {
+    padding: 10px; /* Decreased padding */
+}
+.card-text {
+    margin-bottom: 1px; /* Decreased bottom margin for text elements */
+}
+.custom-container {
+    height: 600px; /* Set to desired height */
+    overflow-y: auto; /* Add scroll if content exceeds */
+}
+.filter-input {
+    border: 2px solid #007bff; /* Change this to your desired color */
+    border-radius: 5px; /* Rounded corners */
+}
+</style>

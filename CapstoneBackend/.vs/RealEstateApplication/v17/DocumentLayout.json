@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\capstonetesting\\contactagenttesting\\contactagenttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|solutionrelative:capstonetesting\\contactagenttesting\\contactagenttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\capstonetesting\\propertycataloguetesting\\propertycataloguetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|solutionrelative:capstonetesting\\propertycataloguetesting\\propertycataloguetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\capstonetesting\\usermanagementtesting\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|solutionrelative:capstonetesting\\usermanagementtesting\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\capstonetesting\\agenttesting\\agenttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC8E28A-CA40-4A8F-B692-DA19EF922971}|CapstoneTesting\\CapstoneTesting.csproj|solutionrelative:capstonetesting\\agenttesting\\agenttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2035209-C551-4D21-A160-3AFC6A22E5D8}|UserManagementService\\UserManagementService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\usermanagementservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2035209-C551-4D21-A160-3AFC6A22E5D8}|UserManagementService\\UserManagementService.csproj|solutionrelative:usermanagementservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\agentservice\\repository layer\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|solutionrelative:agentservice\\repository layer\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\agentservice\\repository layer\\iagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|solutionrelative:agentservice\\repository layer\\iagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B04640-AD21-46E9-B2F0-C48DA138C5DF}|PropertyCatalogueService\\PropertyCatalogueService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\propertycatalogueservice\\data\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B04640-AD21-46E9-B2F0-C48DA138C5DF}|PropertyCatalogueService\\PropertyCatalogueService.csproj|solutionrelative:propertycatalogueservice\\data\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B04640-AD21-46E9-B2F0-C48DA138C5DF}|PropertyCatalogueService\\PropertyCatalogueService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\propertycatalogueservice\\data\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B04640-AD21-46E9-B2F0-C48DA138C5DF}|PropertyCatalogueService\\PropertyCatalogueService.csproj|solutionrelative:propertycatalogueservice\\data\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\agentservice\\service layer\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|solutionrelative:agentservice\\service layer\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\agentservice\\service layer\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|solutionrelative:agentservice\\service layer\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\agentservice\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|solutionrelative:agentservice\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\agentservice\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F283536-DDBB-44CE-8ECD-492D59C2BDE1}|AgentService\\AgentMicroService.csproj|solutionrelative:agentservice\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8263B481-B585-46E5-8B46-F7EC526E2906}|ContactService\\ContactService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\contactservice\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8263B481-B585-46E5-8B46-F7EC526E2906}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8263B481-B585-46E5-8B46-F7EC526E2906}|ContactService\\ContactService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\contactservice\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8263B481-B585-46E5-8B46-F7EC526E2906}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\RealEstateTesting\\ContactAgentTest\\ContactAgentControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B04640-AD21-46E9-B2F0-C48DA138C5DF}|PropertyCatalogueService\\PropertyCatalogueService.csproj|c:\\users\\firoj\\source\\repos\\capstone project\\capstonebackend\\propertycatalogueservice\\data\\propertycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B04640-AD21-46E9-B2F0-C48DA138C5DF}|PropertyCatalogueService\\PropertyCatalogueService.csproj|solutionrelative:propertycatalogueservice\\data\\propertycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\UserManagementService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserManagementService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\UserManagementService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserManagementService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv8oAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:53:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\userManagementTesting\\AuthControllerTest.cs",
+              "RelativeDocumentMoniker": "CapstoneTesting\\userManagementTesting\\AuthControllerTest.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\userManagementTesting\\AuthControllerTest.cs",
+              "RelativeToolTip": "CapstoneTesting\\userManagementTesting\\AuthControllerTest.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwIUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:59:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyCatalogueTest.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\PropertyCatalogueTesting\\PropertyCatalogueTest.cs",
+              "RelativeDocumentMoniker": "CapstoneTesting\\PropertyCatalogueTesting\\PropertyCatalogueTest.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\PropertyCatalogueTesting\\PropertyCatalogueTest.cs",
+              "RelativeToolTip": "CapstoneTesting\\PropertyCatalogueTesting\\PropertyCatalogueTest.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA1wLUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:29:00.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactAgentTesting.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\ContactAgentTesting\\ContactAgentTesting.cs",
+              "RelativeDocumentMoniker": "CapstoneTesting\\ContactAgentTesting\\ContactAgentTesting.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\ContactAgentTesting\\ContactAgentTesting.cs",
+              "RelativeToolTip": "CapstoneTesting\\ContactAgentTesting\\ContactAgentTesting.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:48:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentTesting.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\AgentTesting\\AgentTesting.cs",
+              "RelativeDocumentMoniker": "CapstoneTesting\\AgentTesting\\AgentTesting.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\CapstoneTesting\\AgentTesting\\AgentTesting.cs",
+              "RelativeToolTip": "CapstoneTesting\\AgentTesting\\AgentTesting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:08:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\PropertyCatalogueService\\Data\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "PropertyCatalogueService\\Data\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\PropertyCatalogueService\\Data\\IPropertyRepository.cs",
+              "RelativeToolTip": "PropertyCatalogueService\\Data\\IPropertyRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:35:39.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Repository Layer\\AgentRepository.cs",
+              "RelativeDocumentMoniker": "AgentService\\Repository Layer\\AgentRepository.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Repository Layer\\AgentRepository.cs",
+              "RelativeToolTip": "AgentService\\Repository Layer\\AgentRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:33:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Repository Layer\\IAgentRepository.cs",
+              "RelativeDocumentMoniker": "AgentService\\Repository Layer\\IAgentRepository.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Repository Layer\\IAgentRepository.cs",
+              "RelativeToolTip": "AgentService\\Repository Layer\\IAgentRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:33:49.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\PropertyCatalogueService\\Data\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "PropertyCatalogueService\\Data\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\PropertyCatalogueService\\Data\\PropertyRepository.cs",
+              "RelativeToolTip": "PropertyCatalogueService\\Data\\PropertyRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwCcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:35:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Service Layer\\AgentService.cs",
+              "RelativeDocumentMoniker": "AgentService\\Service Layer\\AgentService.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Service Layer\\AgentService.cs",
+              "RelativeToolTip": "AgentService\\Service Layer\\AgentService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:34:04.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Service Layer\\IAgentService.cs",
+              "RelativeDocumentMoniker": "AgentService\\Service Layer\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Service Layer\\IAgentService.cs",
+              "RelativeToolTip": "AgentService\\Service Layer\\IAgentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:34:17.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "AgentService\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "AgentService\\Controllers\\AgentController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:08:57.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactAgentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\RealEstateTesting\\ContactAgentTest\\ContactAgentControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\RealEstateTesting\\ContactAgentTest\\ContactAgentControllerTests.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\RealEstateTesting\\ContactAgentTest\\ContactAgentControllerTests.cs",
+              "RelativeToolTip": "..\\RealEstateTesting\\ContactAgentTest\\ContactAgentControllerTests.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwFoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:49:20.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactRequest.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\ContactService\\Models\\ContactRequest.cs",
+              "RelativeDocumentMoniker": "ContactService\\Models\\ContactRequest.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\ContactService\\Models\\ContactRequest.cs",
+              "RelativeToolTip": "ContactService\\Models\\ContactRequest.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvy0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:52:12.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "AgentService\\Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\AgentService\\Models\\Agent.cs",
+              "RelativeToolTip": "AgentService\\Models\\Agent.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:26:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\ContactService\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactService\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\ContactService\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactService\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:48:24.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropertyContext.cs",
+              "DocumentMoniker": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\PropertyCatalogueService\\Data\\PropertyContext.cs",
+              "RelativeDocumentMoniker": "PropertyCatalogueService\\Data\\PropertyContext.cs",
+              "ToolTip": "C:\\Users\\FIROJ\\source\\repos\\CAPSTONE PROJECT\\CapstoneBackend\\PropertyCatalogueService\\Data\\PropertyContext.cs",
+              "RelativeToolTip": "PropertyCatalogueService\\Data\\PropertyContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:35:31.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

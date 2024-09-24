@@ -1,0 +1,49 @@
+<div class="container">
+  <h1>Welcome, {{ agentDetails?.name }}</h1>
+  <button (click)="logout()" class="btn btn-danger float-right mb-3">Logout</button>
+  
+  <div *ngIf="agentDetails">
+    <h2>Your Details</h2>
+    <p><strong>Contact Number:</strong> {{ agentDetails.phoneNumber }}</p>
+    <p><strong>Locality:</strong> {{ agentDetails.locality }}</p>
+  </div>
+
+  <div class="mb-3">
+    <label for="Email" class="form-label">Enter Email:</label>
+    <input type="text" class="form-control email-input" id="Email" [(ngModel)]="email" placeholder="Enter email to fetch customers" />
+    <button class="btn btn-primary mt-2" (click)="loadCustomersByEmail()">Submit</button>
+  </div>
+
+  <h2 *ngIf="customers.length > 0">Customers for Email: {{ email }}</h2>
+  <table class="table" *ngIf="customers.length > 0">
+    <thead>
+      <tr>
+        <th>Full Name</th>
+        <th>Email</th>
+        <th>Phone Number</th>
+        <th>Property Name</th>
+        <th>Locality</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let customer of customers">
+        <td>{{ customer.fullName }}</td>
+        <td>{{ customer.email }}</td>
+        <td>{{ customer.phoneNumber }}</td>
+        <td>{{ customer.propertyName }}</td>
+        <td>{{ customer.locality }}</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <div *ngIf="customers.length === 0 && email">
+    <p>No customers found for this Email.</p>
+  </div>
+</div>
+
+<style>
+.email-input {
+    border: 2px solid #007bff; /* Change this to your desired color */
+    border-radius: 5px; /* Optional: Rounded corners */
+}
+</style>

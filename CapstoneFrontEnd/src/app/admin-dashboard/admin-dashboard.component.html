@@ -1,0 +1,240 @@
+<div class="container mt-4">
+  <h1 class="text-center mb-4">Welcome Admin</h1>
+  
+  <button (click)="logout()" class="btn btn-danger float-right mb-3">Logout</button>
+
+  <!-- Manage Agents Section -->
+  <h2>Agents Section</h2>
+  <div class="mb-3">
+    <input type="text" 
+           [(ngModel)]="localityFilter" 
+           (input)="filterAgents()" 
+           placeholder="Filter by Locality" 
+           class="form-control filter-input" />
+  </div>
+  <div class="text-center mb-3">
+    <button (click)="openAddAgentModal()" class="btn btn-primary">Add Agent</button>
+  </div>
+
+  <!-- Add Agent Modal -->
+  <div class="modal fade" id="addAgentModal" tabindex="-1" role="dialog" aria-labelledby="addAgentModalLabel" [ngClass]="{'show': isAddAgentModalOpen}" *ngIf="isAddAgentModalOpen" style="display: block;">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="addAgentModalLabel">Add Agent</h5>
+          <button type="button" class="close" (click)="closeAddAgentModal()" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form (ngSubmit)="addAgent()">
+            <div class="form-group">
+              <label>Name:</label>
+              <input type="text" class="form-control" [(ngModel)]="agentForm.name" name="name" required>
+            </div>
+            <div class="form-group">
+              <label>Email:</label>
+              <input type="email" class="form-control" [(ngModel)]="agentForm.mail" name="mail" required>
+            </div>
+            <div class="form-group">
+              <label>Phone Number:</label>
+              <input type="text" class="form-control" [(ngModel)]="agentForm.phoneNumber" name="phoneNumber" required>
+            </div>
+            <div class="form-group">
+              <label>Locality:</label>
+              <input type="text" class="form-control" [(ngModel)]="agentForm.locality" name="locality" required>
+            </div>
+            <div class="form-group">
+              <label>Password:</label>
+              <input type="password" class="form-control" [(ngModel)]="agentForm.password" name="password" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Agent</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Agent List -->
+  <table class="table table-responsive">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Locality</th>
+        <th>Delete</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let agent of agents">
+        <td>{{ agent.name }}</td>
+        <td>{{ agent.mail }}</td>
+        <td>{{ agent.phoneNumber }}</td>
+        <td>{{ agent.locality }}</td>
+        <td>
+          <button (click)="deleteAgent(agent)" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br>
+
+  <!-- Manage Properties Section -->
+  <h2>Properties Section</h2>
+  <div class="mb-3">
+    <input type="text" 
+           [(ngModel)]="propertyLocationFilter" 
+           (input)="filterProperties()" 
+           placeholder="Filter by Location" 
+           class="form-control filter-input" />
+  </div>
+  <div class="text-center mb-3">
+    <button (click)="openAddPropertyModal()" class="btn btn-primary">Add Property</button>
+  </div>
+
+  <!-- Add Property Modal -->
+  <div class="modal fade" id="addPropertyModal" tabindex="-1" role="dialog" aria-labelledby="addPropertyModalLabel" [ngClass]="{'show': isAddPropertyModalOpen}" *ngIf="isAddPropertyModalOpen" style="display: block;">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="addPropertyModalLabel">Add Property</h5>
+          <button type="button" class="close" (click)="closeAddPropertyModal()" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form (ngSubmit)="addProperty()">
+            <div class="form-group">
+              <label>Title:</label>
+              <input type="text" class="form-control" [(ngModel)]="propertyForm.title" name="title" required>
+            </div>
+            <div class="form-group">
+              <label>Price:</label>
+              <input type="number" class="form-control" [(ngModel)]="propertyForm.price" name="price" required>
+            </div>
+            <div class="form-group">
+              <label>Location:</label>
+              <input type="text" class="form-control" [(ngModel)]="propertyForm.location" name="location" required>
+            </div>
+            <div class="form-group">
+              <label>Size:</label>
+              <input type="number" class="form-control" [(ngModel)]="propertyForm.size" name="size" required>
+            </div>
+            <div class="form-group">
+              <label>Number of Bedrooms:</label>
+              <input type="number" class="form-control" [(ngModel)]="propertyForm.numberOfBedrooms" name="numberOfBedrooms" required>
+            </div>
+            <div class="form-group">
+              <label>Status:</label>
+              <input type="text" class="form-control" [(ngModel)]="propertyForm.status" name="status" required>
+            </div>
+            <div class="form-group">
+              <label>Description:</label>
+              <textarea class="form-control" [(ngModel)]="propertyForm.description" name="description" required></textarea>
+            </div>
+            <div class="form-group">
+              <label>Image:</label>
+              <input type="file" (change)="onImageSelected($event)" accept="image/*" required>
+            </div>
+            <div class="form-group">
+              <label>Agent Name:</label>
+              <input type="text" class="form-control" [(ngModel)]="propertyForm.agent.name" name="agentName" required>
+            </div>
+            <div class="form-group">
+              <label>Agent Contact:</label>
+              <input type="text" class="form-control" [(ngModel)]="propertyForm.agent.contact" name="agentContact" required>
+            </div>
+            <div class="form-group">
+              <label>Agent Email:</label>
+              <input type="email" class="form-control" [(ngModel)]="propertyForm.agent.email" name="agentEmail" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Property</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Properties List -->
+  <table class="table table-responsive">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Price</th>
+        <th>Location</th>
+        <th>Size (sq ft)</th>
+        <th>Number of Bedrooms</th>
+        <th>Status</th>
+        <th>Description</th>
+        <th>Image</th>
+        <th>Agent Name</th>
+        <th>Agent Contact</th>
+        <th>Agent Email</th>
+        <th>Delete</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let property of properties">
+        <td>{{ property.title }}</td>
+        <td>{{ property.price | currency }}</td>
+        <td>{{ property.location }}</td>
+        <td>{{ property.size }}</td>
+        <td>{{ property.numberOfBedrooms }}</td>
+        <td>{{ property.status }}</td>
+        <td>{{ property.description }}</td>
+        <td><img [src]="property.image" alt="{{ property.title }}" style="width: 100px; height: auto;"></td>
+        <td>{{ property.agent?.name }}</td>
+        <td>{{ property.agent?.contact }}</td>
+        <td>{{ property.agent?.email }}</td>
+        <td>
+          <button (click)="deleteProperty(property)" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- View Customers Section -->
+  <h2>View Customers</h2>
+  <div class="mb-3">
+    <input type="text" 
+           [(ngModel)]="localityFilter" 
+           (input)="filterCustomers()" 
+           placeholder="Filter by Locality" 
+           class="form-control filter-input" />
+  </div>
+  <table class="table table-responsive">
+    <thead>
+      <tr>
+        <th>Full Name</th>
+        <th>Email</th>
+        <th>Phone Number</th>
+        <th>Property Name</th>
+        <th>Locality</th>
+        <th>Agent Name</th>
+        <th>Agent Email</th>
+        <th>Agent Contact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let customer of customers">
+        <td>{{ customer.fullName }}</td>
+        <td>{{ customer.email }}</td>
+        <td>{{ customer.phoneNumber }}</td>
+        <td>{{ customer.propertyName }}</td>
+        <td>{{ customer.locality }}</td>
+        <td>{{ customer.agent.name }}</td>
+        <td>{{ customer.agent.email }}</td>
+        <td>{{ customer.agent.contact }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<style>
+.filter-input {
+    border: 2px solid #007bff; /* Change this to your desired color */
+    border-radius: 5px; /* Rounded corners */
+}
+</style>

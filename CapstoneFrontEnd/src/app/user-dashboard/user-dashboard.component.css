@@ -1,0 +1,16 @@
+.card {
+  height: 100%; /* Ensure all cards fill the available space */
+}
+
+.card img {
+  width: 100%; /* Make images responsive */
+  height: 200px; /* Set a fixed height for images */
+  object-fit: cover; /* Ensure images cover the space without distortion */
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Aligns the text properly */
+  height: 100%; /* Ensures the body takes full height of the card */
+}
